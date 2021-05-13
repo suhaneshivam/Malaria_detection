@@ -4,7 +4,7 @@ endemic in poverty-stricken areas like Africa and some parts on Asian-subcontine
 Another technique called antigen testing for Rapid Diagnosis Testing (RDT) are significantly faster than cell counting they are also much less accurate.
 
 ##### An ideal solution would, therefore, need to combine the _speed_ of RDTs with the _accuracy_ of microscopy.
-####Deep Learning is _SOLUTION_!
+#### Deep Learning is _SOLUTION_!
 
 We trained ResNet-50 architecture on infected and non-infected blood smears. The training took a total of 1 hour to achieve an over-all accuracy of 96%! Model is reliable and can be used for the actual detection of Malaria in real time.
 
